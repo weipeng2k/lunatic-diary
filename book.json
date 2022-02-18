@@ -1,0 +1,64 @@
+{
+  "title": "lunatic-diary",
+  "author": "weipeng2k",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "-sharing",
+    "github-buttons",
+    "editlink",
+    "ga",
+    "-highlight",
+    "bibtex-indexed-cite",
+    "page-footer-ex",
+    "splitter",
+    "copy-code-button",
+    "expandable-chapters-small",
+    "donate",
+    "github"
+  ],
+  "pluginsConfig": {
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord": ["Gitbook Use"]
+    },
+    "github-buttons": {
+      "buttons": [{
+        "user": "weipeng2k",
+        "repo": "lunatic-diary",
+        "type": "star",
+        "size": "small",
+        "count": true
+      }]
+    },
+    "editlink": {
+      "base": "https://github.com/weipeng2k/lunatic-diary/blob/master",
+      "label": "Edit",
+      "multilingual": false
+    },
+    "ga": {
+      "token": "UA-131910384-3"
+    },
+    "page-footer-ex": {
+      "copyright": "By [lunatic-diary](https://github.com/weipeng2k/lunatic-diary)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)发布",
+      "markdown": true,
+      "update_label": "此页面修订于：",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "bibtex-indexed-cite": {
+      "path": "/"
+    },
+    "donate": {
+      "wechat": "https://weipeng2k.github.io/lunatic-diary/wechat_qr.JPG",
+      "alipay": "https://weipeng2k.github.io/lunatic-diary/alipay_qr.JPG",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "github": {
+      "url": "https://github.com/weipeng2k/lunatic-diary"
+    }
+  }
+}
