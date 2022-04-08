@@ -6,4 +6,4 @@
 <img src="https://weipeng2k.github.io/lunatic-diary/resources/readme.jpeg" />
 </center>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我的[《狂人日记》](https://weipeng2k.github.io/hot-wind/)是记录一些**非技术书籍（或视频）**的读后感，敢于批判，敢于学习，是我想说的。看一些经典的书，写一点内容，时刻保有提交的感觉，是非常幸福的。纵使在[知乎](https://www.zhihu.com/people/peng.weip)，文章的编写总是缺少一种提交的感觉，所以还是在[**github**](https://github.com/weipeng2k/lunatic-diary)上来的舒坦。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我的[《狂人日记》](https://weipeng2k.github.io/hot-wind/)是记录一些**非技术书籍（或视频）**的观感和思考，敢于批判，敢于学习，是我想说的。看一些经典的书，写一点内容，时刻保有提交的感觉，是非常幸福的。纵使在[知乎](https://www.zhihu.com/people/peng.weip)，文章的编写总是缺少一种提交的感觉，所以还是在[**github**](https://github.com/weipeng2k/lunatic-diary)上来的舒坦。
