@@ -5,3 +5,4 @@
 <center>
 <img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-navall-ravikant/naval-ravikant.jpg" />
 </center>
+
