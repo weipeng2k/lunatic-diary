@@ -5,7 +5,7 @@
 > 虽然部分公司被墙掉了，但是可以从纳瓦尔投资公司的名录上看到他极其广泛的投资范围。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-navall-ravikant/naval-ravikant.jpg" />
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-naval-ravikant/naval-ravikant.jpg" />
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[《纳瓦尔宝典》](https://book.douban.com/subject/35876121/)是收集他在十年间通过推特、博客以及采访等方式分享的人生智慧。本文是[《纳瓦尔宝典》](https://book.douban.com/subject/35876121/)的读后感，主要有三部分构成，分别是：整体感觉、摘录随想和汇总提炼。整体感觉会谈谈本书的直观感受，能收获到什么，摘录随想是对原书中笔者感兴趣的语句进行摘录并结合自己的经历进行的输出，最后是将摘录进行提炼以及总结。
