@@ -27,7 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，看一下章节名称，这些章节看起来挺随意，但是还是有些内在关联的。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-naval-ravikant/anr-chapter.jpg" />
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-naval-ravikant/anr-chapter.png" />
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如上图所示，随着章节的深入，内容直逼自身，这是一条透过外界找寻自我之路。从自身的哲学，如何连接他人寻找幸福，到最后通过判断力来获得财富，这是洞悉自我后的财富之路。笔者总结为：**放低姿态、关注杠杆和理解财富**，什么是姿态？什么又是纳瓦尔所说的杠杆？以及他是如何定义财富的？且听慢慢到来。
@@ -66,7 +66,7 @@
 **打造良好的职业基础，追随自己真正的求知欲上下求索，在独特的热爱和爱好驱动下，才得以掌握只有自己或一小部分人才知道的知识。**
 > 求职欲来自于天赋，兴趣可以选择和培养，特质可以通过训练和积累，只要有兴趣和特质，那就是不可复制的专长。
 > 
-> <center><img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-naval-ravikant/anr-good-at.jpg" /></center>
+> <center><img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-naval-ravikant/anr-good-at.png" /></center>
 >
 > 有选择和发觉兴趣的机会（当然得益于存量），配合上不错的天赋，经过培养，它们能够相互增益，只要不放弃积累，终能异于常人。
 >
@@ -115,7 +115,7 @@
 **心智模型，其实就是有助于调取你所学知识的简单方法。**
 > 所学知识要总结，方能形式化，进而模型化，模型化湿对形式化的拆解与提炼，为了能够更加快速匹配和解决求解的问题。
 >
-> <center><img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-naval-ravikant/anr-model-think.jpg" /></center>
+> <center><img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-naval-ravikant/anr-model-think.png" /></center>
 >
 > 如上图所示，要有效拆解和表述知识，要沉淀解决问题的模型，要建立起知识维度与模型的关系。
 >
@@ -240,11 +240,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于本书的章节体现了有条理的维度关联，所以直接按照章节做一下汇总，从内涵的哲学，到外延的财富，这些方面有**纳瓦尔**的特质，但大部分是一些对大家有益的通用能力。这些能力形成了下面这张**环状图** ，不同的特质聚合在不同维度下，随着与外界联系增多，特质也会变得更多，但内涵总是简单和纯粹的。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-naval-ravikant/anr-ring.jpg" />
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/almanack-of-naval-ravikant/anr-ring.png" />
 </center>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在个人方面，俞敏洪是一个自我要求严格、踏实和注重自我学习的人。从这些特质可以看到，做人不是为了赢下一城，而是要有长期主义的思考和做事方式，不断的自我学习和提升，不断的成长，提升自己的能力是一辈子的事情，一时一刻都不能停。对于个人而言，要建立学习的兴趣，不是说每天都定时定点的学习，而是一直保有学习的欲望，同时有空的时候，就会有计划的学习。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在哲学层面，要忠于理想，忠于自己的本心，做人要朴实，人生天地之间，没有人生来高他人一等，要放低自己。用天道中**丁元英**的话，别看重自己，别看轻别人。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在事业方面，要脚踏实地，做有前景的事，找很靠谱的人。知道优势是有时限的，在优势不在时，需要懂得固本，需要顺势而为。对于工作而言，和个人一样，需要找到像学习一样的核心日常事情，这么说有些绕，对于电商公司而言，需要从自己的核心竞争力中抽取出几个关键的点，比如：体验、配送速度或成本，然后没事的情况下就去优化，就去提升，这样工作或企业就不会乱来，相反这么做使得自己的壁垒更厚。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在自我层面，要勇于做自己，能够建立起理性第三者，打磨自己的度量工具，通过理性第三者分析自己的行为和想法，使用度量工具数据化的认识自己。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在团队方面，俞敏洪算是建立了一个有温度、有情义的团队，从“双减”后的调整就能看出来，包括送桌椅，赔付客户，善待员工等。带领团队需要有统一和清晰的财权和事权，同时要培养组织的增益能力，要让员工因为组织而不同，这是现在所有HR都欠缺的。对于团队而言，管好团队和识别并建立起可复制好团队的能力一样重要，并且后者的难度会更高。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在幸福层面，做到感恩当下，通过断舍离减少外界的无效链接，摒弃杂念，这样就能感受和获得幸福，要做自己的主人，不要被脑中汹涌的自我意识所俘获。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在判断力层面，求知若渴，虚心若愚，对于知识要学进去，讲出来，融汇贯通，要把握长期主义，完善自己的模型思维，这样才能具有良好的判断力。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在财富层面，要明白财富的定义，以及建立财富的基础是专长，要持续的打磨自己的专长，只有这样才能让你有别于他人。
