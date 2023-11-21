@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Leader**，中文是领导者，为什么不用中文，因为中文的领导给人的感觉是：给我冲，而**Leader**给人的感觉是：跟我上。那加上技术这个限定词，是否表示本文只是针对技术人员呢？或者是为了告诉大家如何去当一个技术主管呢？不尽然，其实它是[杰拉德·温伯格]((https://baike.baidu.com/item/Gerald%20M.%20Weinberg/6766440))[《Becoming a technical leader》](https://book.douban.com/subject/26419762/)的中文名字，同时笔者也认为它适合于任何有分工的团队。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/become-a-**Leader**/become-a-tech-**Leader**-preface.jpg" width="50%"/>
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/become-a-leader/become-a-tech-leader-preface.jpg" width="50%"/>
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[杰拉德·温伯格（Gerald M. Weinberg）](https://baike.baidu.com/item/Gerald%20M.%20Weinberg/6766440)是软件领域最著名的专家之一，美国计算机名人堂代表人物。**温伯格**在软件与系统领域工作超过了45年。1997年，由于**温伯格**在软件领域的杰出贡献，被美国计算机博物馆的计算机名人堂选为首批5位成员之一。
@@ -28,7 +28,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以福特定义和开启的大规模生产为例，通过资本、人力和资源的投入，经历生产，最终获得利润，过程如下图所示。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/become-a-**Leader**/btl-product.png" width="60%"/>
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/become-a-leader/btl-product.png" width="60%"/>
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在工业时代，领导力就是用来驱动人力投入生产的。它需要保证在生产中的人能够有效参与，同时机器能够持续稳定的运作，环境对于生产活动是适合的。领导者常用的伎俩是：保有在人力面前的权威与力量，通过“惩罚”来加强这个过程。
@@ -70,7 +70,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以笔者在阿里巴巴零售通的工作为例，作为团队**Leader**，会完成系统的规划、设计和实施。能够理解现有系统存在的问题，明白系统上跑的业务以及流程，懂得用户在意什么和需要什么，最后，回到技术人员的专职领域，设计系统架构，编码落地实施，做好演进规划。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/become-a-**Leader**/task-arch.png" width="60%"/>
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/become-a-leader/task-arch.png" width="70%"/>
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如上图所示，这是一个任务系统，从一个单体到15个领域微服务的演变过程，笔者需要给出设计规划，推演其中的细节，明白哪些是当务之急，哪些是未来的重点，定期的做架构复盘，让整个团队对于未来的方向和所做的工作达成共识。
