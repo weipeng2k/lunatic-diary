@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[尤瓦尔·赫拉利](https://baike.baidu.com/item/尤瓦尔·诺亚·赫拉利)的[《人类简史》](https://book.douban.com/subject/26953606/)是一本披着历史外衣的人文读本，它宏观的观察了人类，或者说智人的出现、发展和崛起的整个过程，剖析了智人成为这颗星球主宰的原因，枚举了智人创造出来的物质和精神财富，这些财富还会和智人相互作用，智人乐此不疲的创造着，同样也被束缚着。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-hisotry-of-humankind/preface-cover.jpg" />
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-history-of-humankind/preface-cover.jpg" />
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本文是[《人类简史》](https://book.douban.com/subject/26953606/)的读后感，作者的文风、素养以及表述力是极强的，很擅长把握读者的思路，无疑是一个会讲故事的学者，当然译者林俊宏的工作也非常棒。复杂的事情，能够通过三言两语讲给小孩子听，[尤瓦尔·赫拉利](https://baike.baidu.com/item/尤瓦尔·诺亚·赫拉利)就具备这个特质，从这方面看要比[凯文·凯利](https://baike.baidu.com/item/凯文·凯利)要好很多，后者的书看起来容易打瞌睡，而这本书绝对不会。
@@ -23,13 +23,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;农业革命使得采集者放下身上的背篓，拿起锄头，支撑了更大的人口规模，代价是个体的悲催。驯化的不仅是植物，也包括动物，虽然这些动物有了种群的发展，但是个体遭遇让人惋惜。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-hisotry-of-humankind/agriculture-revolution.jpg" />
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-history-of-humankind/agriculture-revolution.jpg" />
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在农业革命之后，人类从采集者慢慢的转变为务农者，人类成了远比过去更加自我为中心的生物，与“家”这个概念紧密相连。虽然活动的范围变小了，但是食物的密度却上升了。只有农业才能支撑更大规模的人口，你能想象几万人在一片森林里摘果子的景象吗？
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-hisotry-of-humankind/human-group.jpg" />
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-history-of-humankind/human-group.jpg" />
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;随着人口规模的增长，人类社会的复杂性也随之提升，而且是加速提升。从公元前7,000年有上千人的加泰土丘到公元100年上亿人口的罗马帝国，农业革命带来了人口的剧增，人类的组织形式有了新变化，更多的人口需要更大的故事来连接人们，这些故事会与真实的世界相结合，就像建立人类命运共同体一样的故事一样，会塑造我们的欲望，也会存在于人与人之间的思想连接中，人类是活在自己构筑的故事中而无法自拔。
@@ -55,7 +55,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现代美帝国主义能在这颗星球上横行霸道，来源于它有四根支柱，如果它能保持这些支柱不倒，它就未来可以在其他星球上继续横行霸道，这四根支柱分别是：独步天下的科技实力，举世无双的军事实力，无与伦比的经济实力和引领世界的文化实力，所以，美国人喜欢从实力的角度出发，跟你谈问题，你别不服，就这它还有法理上65个盟友国家（或者说喽啰们）。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-hisotry-of-humankind/four-pillars.jpg" />
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-history-of-humankind/four-pillars.jpg" />
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这四根支柱其实是有关系的，科技使得美国军事上具有最先进的装备，而军事的强大，遍布全球的军事基地使得美国是最有安全保障的国家，钱都愿意往那里去，美国资本家就能把别人的钱变成自己的钱，也能把自己的想法以文化的形式传递到别的国家，变成别人的想法。四根支柱，最核心的就是科技支柱。科技的先进，来自于科学的发展，科学是人类客观观察与理解世界的一种方法和精神。公元1500年，人类开启了科学革命。
@@ -97,7 +97,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所有的社会秩序和等级都只是想象的产物，所以它们也十分脆弱，而宗教的重要性就是让这些脆弱的架构有了超人类的合法性。宗教是一套完整的规范和价值体系，并且宣称这套内容是基于超人类的法则。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-hisotry-of-humankind/religion-relation.jpg" />
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-history-of-humankind/religion-relation.jpg" />
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;宗教讲述了一个故事，利用神来让自然、动物和植物服从人，只是随着宗教的发展，动物中包含了教众，而人变成了特权阶级。如果需要统治上万人，统治者需要派遣至少上百个荷枪实弹的士兵，再配属上法庭和官员，这样成本太高。假设使用牧师，让着上万人相信一些故事，就能间接控制住这些人，也许不超过十个牧师就能完成这个工作，只需要建设几间像样的房子，有人不听话的时候吓一吓他们就行，成本别提多低了。
@@ -109,7 +109,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人类科学快速的发展使我们掌握了许多造物主的秘密，从顺应它土里自己到使用它来进行创造，仿佛自己已经成为了神。回顾历史，人类也就是一种没什么大不了的动物，它既不是起点，也不可能是终点，人类要善于利用这次，搞清楚我们要去哪里。
 
 <center>
-<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-hisotry-of-humankind/three-revolutions.jpg" />
+<img src="https://weipeng2k.github.io/lunatic-diary/resources/a-brief-history-of-humankind/three-revolutions.jpg" />
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;认知革命、农业革命和科学革命，人类和人类创造的故事变得越来越复杂，人类的物理条件是否能突破这个生物所能达到的科学极限？这还是取决于人类认知的提升。人类从未向内看，人类不了解自己，不明白为何快乐。以生物角度看，那是人类的化学机制，从意义和主观看，赋予人类的特质和观念又毫无意义，只有了解自己，跳出不断追逐的圈子，降低自我，人类才能找到快乐。
