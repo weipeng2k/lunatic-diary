@@ -9,3 +9,4 @@
 * [狂人日记-《纳瓦尔宝典》札记](book/almanack-of-naval-ravikant.md)
 * [狂人日记-《成为技术领导者》读后感](book/become-a-leader.md)
 * [狂人日记-《人类简史》读后感](book/a-brief-history-of-humankind.md)
+* [狂人日记-《我如何从股市赚了200万》读后感](book/how-i-gain-money-from-stock.md)
