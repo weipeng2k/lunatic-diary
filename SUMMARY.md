@@ -12,4 +12,4 @@
 * [狂人日记-《我如何从股市赚了200万》读后感](book/how-i-gain-money-from-stock.md)
 * [狂人日记-《小米创业思考》读后感](book/xiaomi-create.md)
 * [狂人日记-《原则：应对变化中的世界秩序》读后感](book/principle.md)
-* [狂人日记-刻意练习：从孙悟空和贝吉塔谈起](book/deliberate-practice.md)
+* [狂人日记-《刻意练习》：从孙悟空和贝吉塔谈起](book/deliberate-practice.md)
