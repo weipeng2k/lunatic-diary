@@ -22,3 +22,4 @@
 * [狂人日记-《原则：应对变化中的世界秩序》读后感](book/principle.md)
 * [狂人日记-《刻意练习》：从孙悟空和贝吉塔谈起](book/deliberate-practice.md)
 * [狂人日记-《金字塔原理》指导文章的写作](book/pyramid-concept.md)
+* [狂人日记-用《非对称风险》去思考矛盾](book/skin-in-the-game.md)
